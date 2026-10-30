@@ -23,5 +23,6 @@ Daily practice just to maintain the streak
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/V1v3kx/Practice/tree/main/0007-reverse-integer/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/V1v3kx/Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
