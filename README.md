@@ -6,6 +6,7 @@ Daily practice just to maintain the streak
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/V1v3kx/Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/V1v3kx/Practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Dynamic Programming
@@ -25,4 +26,12 @@ Daily practice just to maintain the streak
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/V1v3kx/Practice/tree/main/0007-reverse-integer/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/V1v3kx/Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
