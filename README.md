@@ -10,6 +10,7 @@ Daily practice just to maintain the streak
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/V1v3kx/Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/V1v3kx/Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/V1v3kx/Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/V1v3kx/Practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -49,4 +50,12 @@ Daily practice just to maintain the streak
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
