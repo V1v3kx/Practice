@@ -9,6 +9,7 @@ Daily practice just to maintain the streak
 | [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/V1v3kx/Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/V1v3kx/Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -17,6 +18,7 @@ Daily practice just to maintain the streak
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/V1v3kx/Practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@ Daily practice just to maintain the streak
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/V1v3kx/Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/V1v3kx/Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/V1v3kx/Practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -57,5 +60,6 @@ Daily practice just to maintain the streak
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
