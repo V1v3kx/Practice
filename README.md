@@ -32,6 +32,7 @@ Daily practice just to maintain the streak
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/V1v3kx/Practice/tree/main/0007-reverse-integer/) | Medium |
+| [0412-fizz-buzz](https://github.com/V1v3kx/Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/V1v3kx/Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -62,4 +63,12 @@ Daily practice just to maintain the streak
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/V1v3kx/Practice/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/V1v3kx/Practice/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
