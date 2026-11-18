@@ -67,6 +67,7 @@ Daily practice just to maintain the streak
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/V1v3kx/Practice/tree/main/0412-fizz-buzz/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/V1v3kx/Practice/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
