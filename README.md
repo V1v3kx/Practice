@@ -7,6 +7,7 @@ Daily practice just to maintain the streak
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/V1v3kx/Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -41,18 +42,22 @@ Daily practice just to maintain the streak
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/V1v3kx/Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/V1v3kx/Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/V1v3kx/Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/V1v3kx/Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/V1v3kx/Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
