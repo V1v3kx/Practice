@@ -11,6 +11,7 @@ Daily practice just to maintain the streak
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/V1v3kx/Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/V1v3kx/Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/V1v3kx/Practice/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/V1v3kx/Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/V1v3kx/Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -30,6 +31,7 @@ Daily practice just to maintain the streak
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/V1v3kx/Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/V1v3kx/Practice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
