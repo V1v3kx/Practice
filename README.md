@@ -12,6 +12,7 @@ Daily practice just to maintain the streak
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/V1v3kx/Practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/V1v3kx/Practice/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/V1v3kx/Practice/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/V1v3kx/Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/V1v3kx/Practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/V1v3kx/Practice/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/V1v3kx/Practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -79,4 +80,5 @@ Daily practice just to maintain the streak
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/V1v3kx/Practice/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/V1v3kx/Practice/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/V1v3kx/Practice/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
